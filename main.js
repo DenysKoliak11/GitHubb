@@ -7,5 +7,5 @@ function decrement (){
     document.getElementById('count').innerHTML=String(Number(count.innerHTML)-1);
 }
 console.log(count)
-console.log("new commit")
-console.log("new commit 2-123-")
+
+console.log('main')
