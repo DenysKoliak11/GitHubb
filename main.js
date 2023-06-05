@@ -10,3 +10,5 @@ console.log(count)
 
 console.log('main');
 console.log ("dec commit1");
+console.log ("dec commit2");
+console.log ("dec commit2");
