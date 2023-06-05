@@ -9,6 +9,9 @@ function decrement (){
 console.log(count)
 
 console.log('main');
+console.log ("dec commit0");
 console.log ("dec commit1");
 console.log ("dec commit2");
-console.log ("dec commit2");
+console.log ("dec commit3");
+console.log ("dec commit4");
+console.log ("dec commit5");
